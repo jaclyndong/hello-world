@@ -1,3 +1,3 @@
 "Hello!"
 "My name is Haruka"
-"I hate this"
+"I've ordered something cool online"
